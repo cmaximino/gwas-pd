@@ -5,3 +5,5 @@ The data shared here form the bases of a [metanalysis](metanalysis/README.md) of
 * [Brain RNA-Seq](https://web.stanford.edu/group/barres_lab/brain_rnaseq.html), producing [median values of RNA-Seq data for expression in mouse cortex](RNA-Seq/rnaseq.csv); these data were later processed via hierarchical cluster on [Cluster 3.0](http://bonsai.hgc.jp/~mdehoon/software/cluster/software.htm)
 * [Allen Human Brain Atlas](http://human.brain-map.org/), producing [median values of microarray expression across 20 brain areas](Allen/coarse.csv); these data were also processed via hierarchical cluster
 * [GeneNetwork / WebQTL](http://www.genenetwork.org/webqtl/main.py), producing [raw mRNA expression data](GeneNetwork/raw-expression), [correlation matrices](GeneNetwork/correlations), and [networks](GeneNetwork/networks) correlating behavioral data in BXD mice and mRNA levels of candidate genes in amygdala, hippocampus, prefrontal cortex, hypothalamus, and adrenal gland of mice.
+
+[![DOI](https://zenodo.org/badge/113213690.svg)](https://zenodo.org/badge/latestdoi/113213690)
