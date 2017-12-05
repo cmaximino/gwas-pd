@@ -1,66 +1,56 @@
-								
-Citations: Please see http://www.genenetwork.org/reference.html								
-Trait : None								
-Database : Hippocampus Consortium M430v2 (Jun06) PDNN								
-Date : November 24, 2017								
-Time : 21:34  GMT								
-Status of data ownership: Possibly unpublished data; please see http://www.genenetwork.org/statusandContact.html for details on sources, ownership, and usage of these data.								
-Record	Gene ID	Homologene ID	Symbol	Description	Location (Chr, Mb)	Mean Expr	Max LRS	Max LRS Location (Chr: Mb)
-1448819_at	67204	2904	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	Chr2: 154.871607	8,70482828282829	15,5	Chr1: 167.331141
-1417712_at	67204	2904	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta); last exon and proximal 3' UTR	Chr2: 154.872523	12,8561919191919	13,8	Chr19: 22.456818
-1456617_a_at	67204	2904	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	Chr2: 154.877710	12,0571717171717	11,1	Chr2: 112.275774
-1446914_at	67204	2904	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	Chr2: 154.878076	5,80774747474747	9,7	Chr7: 27.067846
-1441023_at	67204	2904	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	Chr2: 154.884442	7,23331313131313	11,1	Chr5: 23.184735
-1448820_a_at	67204	2904	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	Chr2: 154.887703	11,8128686868687	16	Chr2: 165.782727
-1417713_at	67204	2904	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	Chr2: 154.892701	9,49120202020202	13,4	Chr2: 165.782727
-1455274_at	50518	1264	Asip	agouti-signaling protein; intron or 3' UTR	Chr2: 155.026585	7,85327272727273	17,8	Chr2: 35.013636
-1460582_x_at	50518	1264	Asip	agouti-signaling protein; intron or 3' UTR of AK157786	Chr2: 155.026585	8,12493939393939	20,7	Chr4: 155.225671
-1442450_at	50518	1264	Asip	agouti-signaling protein; antisense in intron 3	Chr2: 155.040575	6,81644444444445	15,9	Chr4: 13.837844
-1420516_at	50518	1264	Asip	agouti-signaling protein; last three exons and 3' UTR	Chr2: 155.045648	7,0759696969697	12,5	Chr11: 59.019724
-1417125_at	269378	554	Ahcy	S-adenosylhomocysteine hydrolase	Chr2: 155.059810	9,39021212121213	12,2	Chr1: 170.535283
-1431316_at	16396	88442	Itch	itchy, E3 ubiquitin protein ligase	Chr2: 155.138697	7,27233333333334	11,7	Chr12: 70.716812
-1440582_at	16396	88442	Itch	itchy, E3 ubiquitin protein ligase	Chr2: 155.202277	7,46068686868687	12,3	Chr6: 85.461248
-1415769_at	16396	88442	Itch	itchy, E3 ubiquitin protein ligase; distal 3' UTR	Chr2: 155.226276	9,45981818181818	12,7	Chr7: 48.980120
-1426830_a_at	229709	77353	Ahcyl1	S-adenosylhomocysteine hydrolase-like 1; distal 3' UTR	Chr3: 107.663352	14,2035050505051	11,4	Chr2: 59.226414
-1426831_at	229709	77353	Ahcyl1	S-adenosylhomocysteine hydrolase-like 1; far 3' UTR	Chr3: 107.664195	12,9550707070707	9,2	Chr1: 25.575437
-1425576_at	229709	77353	Ahcyl1	S-adenosylhomocysteine hydrolase-like 1; exons 11 through 16	Chr3: 107.667144	10,7030707070707	14,2	Chr5: 133.062783
-1442898_at	223227	5143	Sox21	SRY-box containing gene 21	Chr4: 151.996795	5,87435353535353	18,5	Chr2: 181.014276
-1460321_at	269784		Cntn4	contactin 4	Chr6: 106.667426	6,92363636363636	15,5	Chr5: 133.062783
-1432618_at	93742	10489	Pard3	Partitioning defective 3 (cell adhesion, tight junction associated)	Chr8: 127.195943	5,648	7,7	Chr19: 61.221468
-1436765_at	93742	10489	Pard3	Partitioning defective 3 (cell adhesion, tight junction associated)	Chr8: 127.400865	6,61062626262626	53,6	Chr8: 126.582424
-1436764_at	93742	10489	Pard3	Partitioning defective 3 (cell adhesion, tight junction associated); mid 3' UTR	Chr8: 127.401485	7,88469696969697	36,7	Chr8: 128.589736
-1446982_at	93742	10489	Pard3	Partitioning defective 3 (cell adhesion, tight junction associated)	Chr8: 127.512947	6,59764646464646	15,5	Chr8: 126.582424
-1441397_at	93742	10489	Pard3	Partitioning defective 3 (cell adhesion, tight junction associated); intron 19	Chr8: 127.524157	6,77267676767677	11,8	Chr13: 115.537298
-1420391_at	93742	10489	Pard3	Partitioning defective 3 (cell adhesion, tight junction associated)	Chr8: 127.610442	7,06166666666666	10	Chr9: 69.858535
-1434775_at	93742	10489	Pard3	Partitioning defective 3 (cell adhesion, tight junction associated); putative far 3' UTR	Chr8: 127.611359	8,29827272727273	9,6	Chr13: 29.000000
-1458988_at	78334	22862	Cdk19	cyclin-dependent kinase 19, transcript variant 2	Chr10: 40.355255	6,27026262626263	8,8	Chr15: 95.209300
-1442225_at	78334	22862	Cdk19	cyclin-dependent kinase 19, transcript variant 2	Chr10: 40.406286	6,22718181818182	14,5	Chr10: 19.810863
-1434997_at	78334	22862	Cdk19	cyclin-dependent kinase 19, transcript variant 2; mid 3' UTR	Chr10: 40.481523	9,30421212121212	19,2	Chr1: 25.575437
-1455031_at	78334	22862	Cdk19	cyclin-dependent kinase 19, transcript variant 2; distal 3'UTR	Chr10: 40.483495	10,0803535353535	14,1	Chr9: 33.830449
-1429804_at	70840	41957	Clc22a16	solute carrier family 22 (organic cation/carnitine transporter), member 16; last exon	Chr10: 40.603650	7,96485858585859	8,6	Chr15: 13.042333
-1440511_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4	Chr11: 30.795253	8,50067676767677	70	Chr11: 29.493209
-1446464_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4	Chr11: 30.832485	6,84560606060606	15,9	Chr1: 37.893971
-1445147_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4	Chr11: 30.839423	7,45076767676768	32,8	Chr11: 33.490349
-1426824_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4	Chr11: 30.856055	8,56036363636364	28,2	Chr11: 29.493209
-1444722_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4	Chr11: 30.861770	7,68352525252525	11,1	Chr10: 92.924522
-1443116_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4	Chr11: 30.873414	7,32314141414141	20,6	Chr11: 33.490349
-1452211_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4; 3'UTR	Chr11: 30.879764	9,22029292929293	29,6	Chr11: 29.493209
-1426823_s_at	103554	113742	Psme4	proteasome (prosome, macropain) activator subunit 4	Chr11: 30.879986	10,3072525252525	68,6	Chr11: 29.493209
-1434536_at	237716	4945	Gpr75	G protein-coupled receptor 75	Chr11: 30.893234	7,84663636363636	47,4	Chr11: 33.490349
-1419074_at	68044	48696	Chac2	ChaC, cation transport regulator homolog 2; mid and distal 3' UTR	Chr11: 30.977051	8,58075757575758	13,7	Chr1: 171.041085
-1417361_at	65257	9391	Asb3	ankyrin repeat and SOCS box-containing protein 3; last two exons and proximal 3' UTR	Chr11: 31.085017	8,39589898989899	86,8	Chr11: 29.493209
-1457790_at	65257	9391	Asb3	ankyrin repeat and SOCS box-containing protein 3; distal 3' UTR	Chr11: 31.102163	6,71486868686868	26,4	Chr11: 29.493209
-1449457_at	12285		Acot12	acyl-CoA thioesterase 12 (recessive cataract); last four exons (one alternative exon excluded)	Chr13: 91.782945	6,7259393939394	10,9	Chr16: 21.323640
-1424557_at	69085	12999	Zcchc9	zinc finger, CCHC domain containing 9; mid 3' UTR	Chr13: 91.796731	8,7729595959596	14,1	Chr5: 133.911105
-1428722_at	76722	68206	Ckmt2	creatine kinase, mitochondrial 2; exons 7, 8, and 9 (of 10)	Chr13: 91.858210	6,38559595959596	9,4	Chr2: 66.959122
-1440918_at	19418	2169	Rasgrf2	RAS protein-specific guanine nucleotide-releasing factor 2	Chr13: 91.882985	8,35576767676768	10,5	Chr13: 97.517537
-1421621_at	19418	2169	Rasgrf2	RAS protein-specific guanine nucleotide-releasing factor 2	Chr13: 91.890520	8,34930303030303	11,5	Chr15: 14.363733
-1437059_at	223227	5143	Sox21	SRY-box containing gene 21	Chr14: 118.233582	7,97484848484849	10,2	Chr8: 81.951757
-1451835_at	223227	5143	Sox21	SRY-box containing gene 21	Chr14: 118.234143	8,00261616161617	20,7	Chr2: 79.805428
-1451689_a_at	20665	5055	Sox10	SRY-box containing gene 10 transcription factor (dominant megacolon); distal 3' UTR	Chr15: 79.154963	10,0534141414141	17,4	Chr15: 83.096920
-1424985_a_at	20665	5055	Sox10	SRY-box containing gene 10 transcription factor (dominant megacolon); mid 3' UTR	Chr15: 79.155394	7,93835353535353	11,9	Chr2: 55.413919
-1425369_a_at	20665	5055	Sox10	SRY-box containing gene 10 transcription factor (dominant megacolon); last exon (exon 5)	Chr15: 79.155936	6,87168686868687	13,7	Chr15: 79.518120
-1416710_at	67564	11008	Tmem35	transmembrane protein 35	ChrX: 134.305447	10,2505454545455	16,1	Chr16: 97.368149
-								
-Funding for The GeneNetwork: NIAAA (U01AA13499, U24AA13513), NIDA, NIMH, and NIAAA (P20-DA21131), NCI MMHCC (U01CA105417), and NCRR (U01NR 105417)								
-PLEASE RETAIN DATA SOURCE INFORMATION WHENEVER POSSIBLE								
+Record,Gene ID,Homologene ID,Symbol,Description,"Location (Chr, Mb)",Mean Expr,Max LRS,Max LRS Location (Chr: Mb)
+1448819_at,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr2: 154.871607,8.70482828282829,15.5,Chr1: 167.331141
+1417712_at,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta); last exon and proximal 3' UTR",Chr2: 154.872523,12.8561919191919,13.8,Chr19: 22.456818
+1456617_a_at,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr2: 154.877710,12.0571717171717,11.1,Chr2: 112.275774
+1446914_at,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr2: 154.878076,5.80774747474747,9.7,Chr7: 27.067846
+1441023_at,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr2: 154.884442,7.23331313131313,11.1,Chr5: 23.184735
+1448820_a_at,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr2: 154.887703,11.8128686868687,16,Chr2: 165.782727
+1417713_at,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr2: 154.892701,9.49120202020202,13.4,Chr2: 165.782727
+1455274_at,50518,1264,Asip,agouti-signaling protein; intron or 3' UTR,Chr2: 155.026585,7.85327272727273,17.8,Chr2: 35.013636
+1460582_x_at,50518,1264,Asip,agouti-signaling protein; intron or 3' UTR of AK157786,Chr2: 155.026585,8.12493939393939,20.7,Chr4: 155.225671
+1442450_at,50518,1264,Asip,agouti-signaling protein; antisense in intron 3,Chr2: 155.040575,6.81644444444445,15.9,Chr4: 13.837844
+1420516_at,50518,1264,Asip,agouti-signaling protein; last three exons and 3' UTR,Chr2: 155.045648,7.0759696969697,12.5,Chr11: 59.019724
+1417125_at,269378,554,Ahcy,S-adenosylhomocysteine hydrolase,Chr2: 155.059810,9.39021212121213,12.2,Chr1: 170.535283
+1431316_at,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase",Chr2: 155.138697,7.27233333333334,11.7,Chr12: 70.716812
+1440582_at,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase",Chr2: 155.202277,7.46068686868687,12.3,Chr6: 85.461248
+1415769_at,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase; distal 3' UTR",Chr2: 155.226276,9.45981818181818,12.7,Chr7: 48.980120
+1426830_a_at,229709,77353,Ahcyl1,S-adenosylhomocysteine hydrolase-like 1; distal 3' UTR,Chr3: 107.663352,14.2035050505051,11.4,Chr2: 59.226414
+1426831_at,229709,77353,Ahcyl1,S-adenosylhomocysteine hydrolase-like 1; far 3' UTR,Chr3: 107.664195,12.9550707070707,9.2,Chr1: 25.575437
+1425576_at,229709,77353,Ahcyl1,S-adenosylhomocysteine hydrolase-like 1; exons 11 through 16,Chr3: 107.667144,10.7030707070707,14.2,Chr5: 133.062783
+1442898_at,223227,5143,Sox21,SRY-box containing gene 21,Chr4: 151.996795,5.87435353535353,18.5,Chr2: 181.014276
+1460321_at,269784,,Cntn4,contactin 4,Chr6: 106.667426,6.92363636363636,15.5,Chr5: 133.062783
+1432618_at,93742,10489,Pard3,"Partitioning defective 3 (cell adhesion, tight junction associated)",Chr8: 127.195943,5.648,7.7,Chr19: 61.221468
+1436765_at,93742,10489,Pard3,"Partitioning defective 3 (cell adhesion, tight junction associated)",Chr8: 127.400865,6.61062626262626,53.6,Chr8: 126.582424
+1436764_at,93742,10489,Pard3,"Partitioning defective 3 (cell adhesion, tight junction associated); mid 3' UTR",Chr8: 127.401485,7.88469696969697,36.7,Chr8: 128.589736
+1446982_at,93742,10489,Pard3,"Partitioning defective 3 (cell adhesion, tight junction associated)",Chr8: 127.512947,6.59764646464646,15.5,Chr8: 126.582424
+1441397_at,93742,10489,Pard3,"Partitioning defective 3 (cell adhesion, tight junction associated); intron 19",Chr8: 127.524157,6.77267676767677,11.8,Chr13: 115.537298
+1420391_at,93742,10489,Pard3,"Partitioning defective 3 (cell adhesion, tight junction associated)",Chr8: 127.610442,7.06166666666666,10,Chr9: 69.858535
+1434775_at,93742,10489,Pard3,"Partitioning defective 3 (cell adhesion, tight junction associated); putative far 3' UTR",Chr8: 127.611359,8.29827272727273,9.6,Chr13: 29.000000
+1458988_at,78334,22862,Cdk19,"cyclin-dependent kinase 19, transcript variant 2",Chr10: 40.355255,6.27026262626263,8.8,Chr15: 95.209300
+1442225_at,78334,22862,Cdk19,"cyclin-dependent kinase 19, transcript variant 2",Chr10: 40.406286,6.22718181818182,14.5,Chr10: 19.810863
+1434997_at,78334,22862,Cdk19,"cyclin-dependent kinase 19, transcript variant 2; mid 3' UTR",Chr10: 40.481523,9.30421212121212,19.2,Chr1: 25.575437
+1455031_at,78334,22862,Cdk19,"cyclin-dependent kinase 19, transcript variant 2; distal 3'UTR",Chr10: 40.483495,10.0803535353535,14.1,Chr9: 33.830449
+1429804_at,70840,41957,Clc22a16,"solute carrier family 22 (organic cation/carnitine transporter), member 16; last exon",Chr10: 40.603650,7.96485858585859,8.6,Chr15: 13.042333
+1440511_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.795253,8.50067676767677,70,Chr11: 29.493209
+1446464_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.832485,6.84560606060606,15.9,Chr1: 37.893971
+1445147_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.839423,7.45076767676768,32.8,Chr11: 33.490349
+1426824_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.856055,8.56036363636364,28.2,Chr11: 29.493209
+1444722_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.861770,7.68352525252525,11.1,Chr10: 92.924522
+1443116_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.873414,7.32314141414141,20.6,Chr11: 33.490349
+1452211_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4; 3'UTR",Chr11: 30.879764,9.22029292929293,29.6,Chr11: 29.493209
+1426823_s_at,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.879986,10.3072525252525,68.6,Chr11: 29.493209
+1434536_at,237716,4945,Gpr75,G protein-coupled receptor 75,Chr11: 30.893234,7.84663636363636,47.4,Chr11: 33.490349
+1419074_at,68044,48696,Chac2,"ChaC, cation transport regulator homolog 2; mid and distal 3' UTR",Chr11: 30.977051,8.58075757575758,13.7,Chr1: 171.041085
+1417361_at,65257,9391,Asb3,ankyrin repeat and SOCS box-containing protein 3; last two exons and proximal 3' UTR,Chr11: 31.085017,8.39589898989899,86.8,Chr11: 29.493209
+1457790_at,65257,9391,Asb3,ankyrin repeat and SOCS box-containing protein 3; distal 3' UTR,Chr11: 31.102163,6.71486868686868,26.4,Chr11: 29.493209
+1449457_at,12285,,Acot12,acyl-CoA thioesterase 12 (recessive cataract); last four exons (one alternative exon excluded),Chr13: 91.782945,6.7259393939394,10.9,Chr16: 21.323640
+1424557_at,69085,12999,Zcchc9,"zinc finger, CCHC domain containing 9; mid 3' UTR",Chr13: 91.796731,8.7729595959596,14.1,Chr5: 133.911105
+1428722_at,76722,68206,Ckmt2,"creatine kinase, mitochondrial 2; exons 7, 8, and 9 (of 10)",Chr13: 91.858210,6.38559595959596,9.4,Chr2: 66.959122
+1440918_at,19418,2169,Rasgrf2,RAS protein-specific guanine nucleotide-releasing factor 2,Chr13: 91.882985,8.35576767676768,10.5,Chr13: 97.517537
+1421621_at,19418,2169,Rasgrf2,RAS protein-specific guanine nucleotide-releasing factor 2,Chr13: 91.890520,8.34930303030303,11.5,Chr15: 14.363733
+1437059_at,223227,5143,Sox21,SRY-box containing gene 21,Chr14: 118.233582,7.97484848484849,10.2,Chr8: 81.951757
+1451835_at,223227,5143,Sox21,SRY-box containing gene 21,Chr14: 118.234143,8.00261616161617,20.7,Chr2: 79.805428
+1451689_a_at,20665,5055,Sox10,SRY-box containing gene 10 transcription factor (dominant megacolon); distal 3' UTR,Chr15: 79.154963,10.0534141414141,17.4,Chr15: 83.096920
+1424985_a_at,20665,5055,Sox10,SRY-box containing gene 10 transcription factor (dominant megacolon); mid 3' UTR,Chr15: 79.155394,7.93835353535353,11.9,Chr2: 55.413919
+1425369_a_at,20665,5055,Sox10,SRY-box containing gene 10 transcription factor (dominant megacolon); last exon (exon 5),Chr15: 79.155936,6.87168686868687,13.7,Chr15: 79.518120
+1416710_at,67564,11008,Tmem35,transmembrane protein 35,ChrX: 134.305447,10.2505454545455,16.1,Chr16: 97.368149

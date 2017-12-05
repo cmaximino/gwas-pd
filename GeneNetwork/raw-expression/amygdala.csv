@@ -1,0 +1,31 @@
+Record,Gene ID,Homologene ID,Symbol,Description,"Location (Chr, Mb)",Mean Expr,Max LRS,Max LRS Location (Chr: Mb)
+10374934,103554,113742,Psme4,"proteasome (prosome, macropain) activator subunit 4",Chr11: 30.771983,9.64157997131348,8.4,Chr13: 80.924370
+10374983,65257,9391,Asb3,ankyrin repeat and SOCS box-containing 3,Chr11: 30.885462,9.00196002960205,22.2,Chr11: 29.493209
+10374998,237716,4945,Gpr75,G protein-coupled receptor 75,Chr11: 30.891008,10.4781800270081,10.6,Chr12: 57.952639
+10384940,66753,9247,Erlec1,endoplasmic reticulum lectin 1,Chr11: 30.929784,10.2703400230408,11.4,Chr11: 28.055244
+10384956,68044,48696,Chac2,"ChaC, cation transport regulator homolog 2 (E. coli)",Chr11: 30.976707,8.90360004425049,8.4,Chr1: 179.862838
+10362676,78334,22862,Cdk19,"cyclin-dependent kinase 19, transcript variant 2",Chr10: 40.349308,10.4197799682617,10.8,Chr7: 144.433458
+10439762,269378,554,Ahcy,S-adenosylhomocysteine hydrolase,Chr16: 46.152981,7.21447999000549,7.4,Chr7: 29.352645
+10578683,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr8: 52.196061,9.81307998657227,7,Chr15: 14.390519
+10430458,20665,5055,Sox10,SRY-box containing gene 10,Chr15: 79.154909,9.6209400177002,8.1,Chr18: 65.174965
+10406564,74156,12540,Acot12,acyl-CoA thioesterase 12,Chr13: 91.741518,7.34827997207642,8.2,Chr3: 8.903411
+10410975,69085,12999,Zcchc9,"zinc finger, CCHC domain containing 9",Chr13: 91.796533,8.49412008285523,12.5,Chr10: 5.694659
+10410984,76722,68206,Ckmt2,"creatine kinase, mitochondrial 2",Chr13: 91.853387,6.53691998481751,9.2,Chr17: 50.733344
+10410995,19418,2169,Rasgrf2,RAS protein-specific guanine nucleotide-releasing factor 2,Chr13: 92.024037,10.4328600311279,12.1,Chr12: 104.719074
+10540359,269784,,Cntn4,contactin 4,Chr6: 105.677776,9.62787996292114,9.2,Chr18: 20.834734
+10501143,229709,77353,Ahcyl1,S-adenosylhomocysteine hydrolase-like 1,Chr3: 107.664506,11.8880999565125,9.7,Chr9: 86.296651
+10422272,223227,5143,Sox21,SRY-box containing gene 21,Chr14: 118.233232,9.10243997573853,13.7,Chr12: 67.568128
+10576610,93742,10489,Pard3,par-3 (partitioning defective 3) homolog (C. elegans),Chr8: 127.064245,9.17202003479004,10.3,Chr7: 144.433458
+10606658,215201,11782,Trmt2b,TRM2 tRNA methyltransferase 2 homolog B (S. cerevisiae),ChrX: 134.222955,8.94869998931885,10.1,Chr6: 37.657959
+10601701,67564,11008,Tmem35,transmembrane protein 35,ChrX: 134.295225,10.8522400665283,14.8,ChrX: 139.755063
+10601705,102920,4899,Cenpi,centromere protein I,ChrX: 134.308155,5.82624002456665,9.9,Chr10: 80.452285
+10488806,67204,2904,Eif2s2,"eukaryotic translation initiation factor 2, subunit 2 (beta)",Chr2: 154.871410,8.63773998260498,8.3,Chr5: 144.397001
+10338859,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase; LINE in intron, antisense",Chr2: 154.975843,7.93133999824524,9.9,Chr1: 43.609717
+10342533,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase",Chr2: 155.004231,8.6995599937439,13.2,ChrX: 3.231738
+10477595,50518,1264,Asip,agouti-signaling protein,Chr2: 155.013531,7.61726000785828,10.5,Chr17: 50.733344
+10342725,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase; intron",Chr2: 155.014463,4.16864003181457,18.4,Chr18: 85.520123
+10338430,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase",Chr2: 155.035968,4.5167799949646,13.3,Chr3: 151.340029
+10338700,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase",Chr2: 155.038674,6.44362000465393,14.7,Chr3: 61.219576
+10338292,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase",Chr2: 155.043784,10.5330399513245,8.3,Chr1: 55.127478
+10488816,269378,554,Ahcy,S-adenosylhomocysteine hydrolase,Chr2: 155.059310,9.50614000320435,9.5,Chr12: 103.283977
+10477604,16396,88442,Itch,"itchy, E3 ubiquitin protein ligase",Chr2: 155.133532,10.1437400436401,12.3,Chr17: 91.160623
