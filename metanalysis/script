@@ -1,0 +1,17 @@
+#Define input files as CSVs
+SEPARATOR COMMA
+
+# === DESCRIBE THE INPUT FILES ===
+MARKER SNP
+ALLELE RefAllele NonRefAllele
+EFFECT OR
+PVALUE p_value
+
+# === PROCESS THE INPUT FILES ===
+PROCESS eckhardt.tbl.csv
+PROCESS forstner.tbl.csv
+PROCESS otowa_2012.tbl.csv
+
+# === CARRY OUT THE ANALYSIS ===
+OUTFILE METAANALYSIS_GWASPD.tbl
+ANALYZE
